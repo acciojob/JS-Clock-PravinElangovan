@@ -1,4 +1,4 @@
-setInterval(() => {
+ setInterval(() => {
     d = new Date(); //object of date()
     hr = d.getHours();
     min = d.getMinutes();
